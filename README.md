@@ -18,6 +18,9 @@
 <div style="display: flex;">
   <img src="./assets/images/ss_1.png" height="500px" style="padding: 5px;">
   <img src="./assets/images/ss_2.png" height="500px" style="padding: 5px;">
+</div>
+
+<div>
   <img src="./assets/images/ss_3.png" height="500px" style="padding: 5px;">
   <img src="./assets/images/ss_4.png" height="500px" style="padding: 5px;">
-<div>
+</div>
