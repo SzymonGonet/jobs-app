@@ -1,14 +1,23 @@
-# Expo Router Example
+# React Native Jobs App
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+#### Job Discovery
 
-## 🚀 How to use
+- Display an assortment of in-demand job openings based on their popularity as well as proximity to the user's location.
+- Offer a robust search functionality that allows users to locate job openings by entering specific criteria like job title, company name, or skills required.
+- Enable users to refine their job search through an array of filters such as industry, experience level, salary range, employment type, and geographical area.
 
-```sh
-npx create-expo-app -e with-router
-```
+#### Job Details
 
-## 📝 Notes
+- Present detailed information about each job opening, including the role, company, and location, in a well-organized format.
+- Include a dedicated section that provides an overview of the job, detailing what the role entails and what the work environment is like.
+- Outline the essential and preferred qualifications for applicants, such as educational background, professional experience, and skill sets.
+- Detail the specific tasks and obligations that the job role involves, helping prospective candidates understand what will be expected of them.
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+## Preview
+
+<div style="display: flex;">
+  <img src="./assets/images/ss_1.png" height="500px" style="padding: 5px;">
+  <img src="./assets/images/ss_2.png" height="500px" style="padding: 5px;">
+  <img src="./assets/images/ss_3.png" height="500px" style="padding: 5px;">
+  <img src="./assets/images/ss_4.png" height="500px" style="padding: 5px;">
+<div>
